@@ -26,5 +26,9 @@
 ## Preview VIA
 <p align="center">
   <img src="DOC/VIA/via.jpeg" width="50%" height="50%">
-  https://github.com/juarendra/ZEOPAD-QMK-VIA/blob/main/DOC/VIA/test1.mp4
+ 
+
+https://github.com/juarendra/ZEOPAD-QMK-VIA/assets/43043633/5644a342-d16e-4c7c-b6e1-88544921e3ac
+
+ 
 </p>

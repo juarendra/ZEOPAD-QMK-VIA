@@ -15,11 +15,12 @@
 
 ## Preview Hardware
 <p align="center">
+  
+  <img src="DOC/HARDWARE/hw3.jpeg" width="50%" height="50%">
+  <img src="DOC/HARDWARE/hw4.jpeg" width="50%" height="50%">
+  <img src="DOC/HARDWARE/hw5.jpeg" width="50%" height="50%">
   <img src="DOC/HARDWARE/hw1.jpeg" width="25%" height="25%">
-  <img src="DOC/HARDWARE/hw2.jpeg" width="25%" height="25%">
-  <img src="DOC/HARDWARE/hw3.jpeg" width="25%" height="25%">
-  <img src="DOC/HARDWARE/hw4.jpeg" width="25%" height="25%">
-  <img src="DOC/HARDWARE/hw5.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw2.jpeg" width="50%" height="50%">
 </p>
 
 ## Preview VIA

@@ -6,8 +6,8 @@
     "processor": "atmega32u4",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x3534",
-        "vid": "0xF055"
+        "pid": "0x0401",
+        "vid": "0xD010"
     },
     "layouts": {
         "LAYOUT_ortho_4x4": {

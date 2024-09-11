@@ -1,0 +1,21 @@
+{
+    "name":"ZEOPAD BY POSITRON",
+    "vendorId":"0xD010",
+    "productId":"0x0401",
+
+    "matrix":{
+      "rows":1,
+      "cols":5
+    },
+    "layouts":{
+      "keymap":[
+        [
+          {"x":0},"0,4\n\n\n\n\n\n\n\n\ne0",
+          {"x":0},"0,0",
+          {"x":0},"0,1",
+          {"x":0},"0,2",
+          {"x":0},"0,3"
+        ]
+      ]
+    }
+  }

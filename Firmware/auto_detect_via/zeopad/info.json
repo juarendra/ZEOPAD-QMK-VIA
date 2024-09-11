@@ -1,0 +1,32 @@
+{
+    "manufacturer": "positron_electronic",
+    "keyboard_name": "zeopad",
+    "maintainer": "juarendra",
+    "bootloader": "caterina",
+    "processor": "atmega32u4",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0401",
+        "vid": "0xD010"
+    },
+    "rgb_matrix": {
+        "animations": {
+            "alphas_mods": true
+        },
+	"driver": "ws2812",
+        "max_brightness": 75,
+        "sleep": true
+    },
+
+    "layouts": {
+        "LAYOUT_ortho_4x4": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0 },
+                { "matrix": [0, 4], "x": 4, "y": 0 }
+            ]
+        }
+    }
+}
